@@ -9,7 +9,7 @@ O provisionamento do servidor web é feito através de um script que automatiza 
 
 Com esse script, é possível provisionar um servidor web de forma rápida e eficiente, evitando erros humanos e garantindo a padronização do ambiente.
 
-#Como utilizar o script?
+# Como utilizar o script?
 O script pode ser utilizado em qualquer ambiente Linux com o Apache instalado. Basta executar o script como root e seguir as instruções.
 
 Caso seja necessário, é possível personalizar as configurações do Apache e adicionar novos sites ao servidor web.
